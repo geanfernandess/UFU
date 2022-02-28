@@ -1,3 +1,3 @@
 # UFU
 
-Repositórios de arquivos da faculdade.
+Repositório de arquivos da faculdade.
